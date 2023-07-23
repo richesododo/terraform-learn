@@ -7,3 +7,6 @@
 
 # local .terraform folder
 .terraform/*
+
+#ignore crash log
+crash.log
